@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 630">
+  <defs>
+    <linearGradient id="bg" x1="0%" y1="0%" x2="100%" y2="100%">
+      <stop offset="0%" style="stop-color:#1c1917"/>
+      <stop offset="100%" style="stop-color:#292524"/>
+    </linearGradient>
+  </defs>
+  <rect width="1200" height="630" fill="url(#bg)"/>
+  <text x="100" y="260" font-family="Inter, system-ui, sans-serif" font-weight="700" font-size="72" fill="#fafaf9">Sarthak Sethi</text>
+  <text x="100" y="340" font-family="Inter, system-ui, sans-serif" font-weight="400" font-size="36" fill="#b8ae9f">Senior Software Engineer</text>
+  <text x="100" y="400" font-family="Inter, system-ui, sans-serif" font-weight="300" font-size="24" fill="#78716c">Full-Stack Developer | AI Engineer | Tech Lead</text>
+</svg>
